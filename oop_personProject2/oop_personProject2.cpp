@@ -111,8 +111,6 @@ int main()
     person1.SendEmail("Hi", "How Are You");
     person1.SendSMS("How Are You");
 
-    cout << "\nHello World!\n";
-
     system("pause>0");
     return 0;
 }
