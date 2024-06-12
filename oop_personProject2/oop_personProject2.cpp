@@ -105,7 +105,7 @@ public:
 
 int main()
 {
-    clsPerson person1(10, "Mohammed", "Abo_Hadhud", "my@gmail.com", "0098387727");
+    clsPerson person1(10, "Ola", "Ali", "my@gmail.com", "0098387727");
     person1.Print();
 
     person1.SendEmail("Hi", "How Are You");
